@@ -1,0 +1,110 @@
+[
+  {
+    "url": "http://127.0.0.1:5500/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_48.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_48.report.json",
+    "summary": {
+      "performance": 0.82,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_59.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_59.report.json",
+    "summary": {
+      "performance": 0.78,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/story.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_10.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_10.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/story.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_21.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_21.report.json",
+    "summary": {
+      "performance": 0.8,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/services.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_36_42.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_36_42.report.json",
+    "summary": {
+      "performance": 0.78,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/services.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_36_53.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_36_53.report.json",
+    "summary": {
+      "performance": 0.83,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/index.html",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_37.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_index_html-2022_02_12_07_35_37.report.json",
+    "summary": {
+      "performance": 0.82,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/story.html",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_32.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_story_html-2022_02_12_07_36_32.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:5500/services.html",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_37_04.report.html",
+    "jsonPath": "C:\\Users\\Aditi\\Downloads\\Seneca\\127_0_0_1-_services_html-2022_02_12_07_37_04.report.json",
+    "summary": {
+      "performance": 0.78,
+      "accessibility": 1,
+      "best-practices": 0.83,
+      "seo": 1
+    }
+  }
+]
