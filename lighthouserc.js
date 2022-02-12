@@ -2,8 +2,7 @@ module.exports = {
     ci: {
       collect: {
         numberOfRuns: 3,
-        url:['./index.html','./about.html'],
- 
+        staticDistDir:'./',
         settings: {
             preset:'desktop',
           onlyCategories: [
