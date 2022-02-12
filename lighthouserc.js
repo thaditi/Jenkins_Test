@@ -40,8 +40,7 @@ module.exports = {
         },
       },
       upload: {
-        target:'filesystem' ,
-        outputDir:'./reportsDI',
+        target:'temporary-public-storage' ,
       },
     },
   }
