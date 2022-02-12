@@ -2,7 +2,7 @@ module.exports = {
     ci: {
       collect: {
         numberOfRuns: 3,
-        staticDistDir:'./',
+        url:['./index.html','./about.html'],
  
         settings: {
             preset:'desktop',
@@ -42,7 +42,7 @@ module.exports = {
       },
       upload: {
         target:'filesystem' ,
-        outputDir:'./reportsD2I',
+        outputDir:'./reportsDI',
       },
     },
   }
