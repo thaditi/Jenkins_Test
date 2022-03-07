@@ -2,7 +2,7 @@ module.exports = {
     ci: {
       collect: {
         numberOfRuns: 3,
-        staticDistDir:'./',
+        url: ['https://www.qualcomm.com/products','https://www.qualcomm.com/','https://www.qualcomm.com/support'],
         settings: {
             preset:'desktop',
           onlyCategories: [
