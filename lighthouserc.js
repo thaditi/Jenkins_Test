@@ -1,8 +1,8 @@
 module.exports = {
     ci: {
       collect: {
-        numberOfRuns: 3,
-        url: ['https://www.qualcomm.com/products','https://www.qualcomm.com/','https://www.qualcomm.com/support'],
+        numberOfRuns: 1,
+        url: ['https://www.qualcomm.com/products','https://www.qualcomm.com/products/audio','https://www.qualcomm.com/products/audio/bluetooth-wireless-speakers'],
         settings: {
             preset:'desktop',
           onlyCategories: [
